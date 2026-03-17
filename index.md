@@ -29,18 +29,17 @@ MapRVA hosts both in-person and virtual meetups, usually every-other week! Check
 
 ### Upcoming Events
 
-- March 12, 2026, 6pm: **MapRVA Meetup at New York Deli**
-- March 17, 2026, 10am, Library of Virginia: **MapRVA's Yesterdays**
 - March 26, 2026, 6pm, RPL Main Branch: **Invited Seminar: [Dr. Kyle Redican](https://geography.richmond.edu/faculty/kredican), University of Richmond**
+- April 23, 2026, 6:30pm, VIRTUAL: **Invited Seminar: LaToya Gray-Sparks, Virginia DHR**
 
 ### Recent Events
 
-- February 26, 2026, 6pm: **MapRVA Virtual Map & Yap**
-- February 18, 2026, 6:30pm, RPL Main Branch, Annex Room: **Mapping surveillance in Richmond**
-- January 15, 2026, 6:30pm: **MapRVA Meetup at New York Deli**
-- December 6, 2025: **MapRVA Holiday Party**
-- October 29, 2025: **Cemetery Mapping Meetup**
-
+- March 17, 2026, Presentation to the Library of Virginia: **Historic Photographs and the Community Knowledge Graph in Richmond**
+- March 15, 2026, Studio Two Three: **Mapping Surveillance in RVA and Beyond**
+- March 12, 2026 **MapRVA Meetup at New York Deli**
+- February 26, 2026 **MapRVA Virtual Map & Yap**
+- February 18, 2026, RPL Main Branch: **Mapping surveillance in Richmond**
+- January 15, 2026 **MapRVA Meetup at New York Deli**
 
 ### Event Calendar
 
